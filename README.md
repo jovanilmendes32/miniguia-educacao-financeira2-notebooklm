@@ -45,10 +45,10 @@ https://www.tesourodireto.com.br/
 
 # 📸 Capturas de Tela
 
-## Fontes carregadas no NotebookLM, exemplo de Prompt e Resposta gerada pela IA
+## Fontes carregadas no NotebookLM, Exemplo de Prompt e Resposta gerada pela IA
 
-![image alt](https://github.com/jovanilmendes32/miniguia-educacao-financeira2-notebooklm/blob/4c76c450075bf84718b4d3f5deeafd8d1f4607c0/NotebookLM%20-%20Google%20Chrome%2021_06_2026%2009_29_55.png)
----
+![Image Alt](image_url)
+
 
 # 🤖 Engenharia de Prompts
 
