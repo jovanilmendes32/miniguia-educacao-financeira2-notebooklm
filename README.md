@@ -47,7 +47,7 @@ https://www.tesourodireto.com.br/
 
 ## Fontes carregadas no NotebookLM, Exemplo de Prompt e Resposta gerada pela IA
 
-![Image Alt](image_url)
+![Image Alt](https://github.com/jovanilmendes32/miniguia-educacao-financeira2-notebooklm/blob/main/NotebookLM%20-%20Google%20Chrome%2021_06_2026%2009_29_55.png?raw=true)
 
 
 # 🤖 Engenharia de Prompts
