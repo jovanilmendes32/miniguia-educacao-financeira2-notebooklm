@@ -50,7 +50,7 @@ https://www.tesourodireto.com.br/
 ![Image Alt](https://github.com/jovanilmendes32/miniguia-educacao-financeira2-notebooklm/blob/main/NotebookLM%20-%20Google%20Chrome%2021_06_2026%2009_29_55.png?raw=true)
 
 ##Exemplo de Prompt e Resposta gerada pela IA
-![Image Alt](image_url)
+![Image Alt](https://github.com/jovanilmendes32/miniguia-educacao-financeira2-notebooklm/blob/main/How%20To%20Add%20Image%20To%20GitHub%20README%202026%20_%20Add%20Screenshot%20In%20GitHub%20README.md%20File%20-%20YouTube%20-%20Google%20Chrome%2021_06_2026%2010_37_12.png?raw=true)
 
 
 # 🤖 Engenharia de Prompts
